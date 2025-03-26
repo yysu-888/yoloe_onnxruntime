@@ -1,0 +1,2 @@
+epoch ,time    ,train/box ,train/cls ,train/dfl ,metrics/precision(B) ,metrics/recall(B) ,metrics/mAP50(B) ,metrics/mAP50-95(B) ,metrics/APr(B) ,metrics/APc(B) ,metrics/APf(B) ,val/box ,val/cls ,val/dfl ,lr/pg0      ,lr/pg1      ,lr/pg2
+    1 ,2048.95 ,  0.79362 ,  1.51406 ,  1.09889 ,             0.32427 ,          0.36293 ,          0.2186 ,            0.14166 ,-1             ,       0.14166 ,-1             ,1.08636 ,1.91136 ,1.22868 ,0.000666605 ,0.000666605 ,0.000666605
